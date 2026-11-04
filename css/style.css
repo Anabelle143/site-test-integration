@@ -77,6 +77,12 @@ main {
     flex-wrap: wrap;
     justify-content: space-around;
 }
+.imgLink1 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
 footer {
     background-color: #373737;
     color: white;
